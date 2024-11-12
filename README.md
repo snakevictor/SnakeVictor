@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor!</h1>
-<h3 align="center">A data engineer from Brazil.</h3>
+<h3 align="center">A python developer and data engineer from Brazil.</h3>
 
 <text style="text-align:center">At the moment I'm: learning Rust, developing data engineering projects for my porfolio, studying for my DE'ing certifications and doing game design/rom hacking on the side for fun.</text>
 
